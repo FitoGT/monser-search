@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monser-search/static/css/main.ae502a68.chunk.css",
+    "main.js": "/monser-search/static/js/main.41e18535.chunk.js",
+    "main.js.map": "/monser-search/static/js/main.41e18535.chunk.js.map",
+    "runtime-main.js": "/monser-search/static/js/runtime-main.e75aae52.js",
+    "runtime-main.js.map": "/monser-search/static/js/runtime-main.e75aae52.js.map",
+    "static/js/2.4058bf1b.chunk.js": "/monser-search/static/js/2.4058bf1b.chunk.js",
+    "static/js/2.4058bf1b.chunk.js.map": "/monser-search/static/js/2.4058bf1b.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/monser-search/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/monser-search/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/monser-search/index.html",
+    "static/css/main.ae502a68.chunk.css.map": "/monser-search/static/css/main.ae502a68.chunk.css.map",
+    "static/js/2.4058bf1b.chunk.js.LICENSE.txt": "/monser-search/static/js/2.4058bf1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e75aae52.js",
+    "static/js/2.4058bf1b.chunk.js",
+    "static/css/main.ae502a68.chunk.css",
+    "static/js/main.41e18535.chunk.js"
+  ]
+}
